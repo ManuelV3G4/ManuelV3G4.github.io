@@ -119,3 +119,8 @@ a,
 date-input-polyfill {
     z-index: 9999999;
 }
+
+body {
+    background-color: var(--color-gray-900);
+    color: var(--color-gray-50);
+}

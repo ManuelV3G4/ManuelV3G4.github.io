@@ -122,5 +122,9 @@ date-input-polyfill {
 
 body {
     background-color: var(--color-gray-900);
-    color: var(--color-gray-50);
+    color: var(--color-gray-200);
+}
+
+.md-button.icon {
+    color: inherit !important;
 }
